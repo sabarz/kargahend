@@ -7,6 +7,8 @@ int main()
 	scanf("%d%d" , &a , &b) ;
 
 	sum = a+b ;
+
+	scanf("%d" , sum) ;
 	
 
 	return (0);
